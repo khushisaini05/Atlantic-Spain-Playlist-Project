@@ -158,5 +158,3 @@ Atlantic should move away from copy-pasting US/UK strategies and adopt a **Spain
 
 ---
 
-*Analysis by: Atlantic Recording Corporation Analytics Team*
-*Data Period: 2024 | Dataset: Spain Top 50 Daily Snapshots*
